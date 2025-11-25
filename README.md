@@ -1,4 +1,4 @@
-[# EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras.
+# EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras.
 ## AIM:
 To Implement-a-SimpleLSTM-using-TensorFlow-Keras
 
@@ -30,9 +30,9 @@ Graphs such as predicted vs. actual values and training loss curves are plotted.
 
 ## PROGRAM:
 
-Name:LOKESH P
+Name:SAMEENA J
 
-Register Number:2305001015
+Register Number:2305002019
 
 ~
 import numpy as np
@@ -170,4 +170,4 @@ plt.show()
 
 ## RESULT:
 
-Thus, the Implement-a-SimpleLSTM-using-TensorFlow-Keras is successfully executed.](https://github.com/LokeshP2005MM/EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras)
+Thus, the Implement-a-SimpleLSTM-using-TensorFlow-Keras is successfully executed.
